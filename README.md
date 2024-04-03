@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arwedus
+- 👋 Hi, I’m Arwed S.
 - 👀 I’m interested in programming C++ for embedded applications, and the documentation of code and SW design.
 - 🌱 I’m currently learning about docs-as-code approaches in safety related software.
 - 💞️ I’m looking to collaborate on exactly that.
